@@ -41,8 +41,8 @@ const Page: FC<PageProps> = ({}) => {
   }
 
   return (
-  <div className='w-screen h-screen bg-gray flex justify-center items-center'>
-    <div className='flex flex-col gap-10 p-10 border-black border rounded-lg mr-10'>
+  <div className='w-screen h-screen bg-gray-300 flex justify-center items-center'>
+    <div className='flex flex-col gap-10 p-10 border-black border rounded-lg mr-10 bg-white'>
       <ChromePicker 
       color={color}
       onChange={(color) => setColor(color.hex)}
@@ -75,7 +75,7 @@ const Page: FC<PageProps> = ({}) => {
     ref={canvasRef}
     width={950}
     height={750}
-    className='border border-black rounded-lg'
+    className='border border-black rounded-lg bg-white'
     />
   </div>);
 };
