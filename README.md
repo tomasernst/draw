@@ -13,8 +13,6 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
-# or
 bun dev
 ```
 
@@ -30,5 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [ ] Add shapes
 - [ ] Add images (png, jpg)
 
+## Versions
 
-
+###  v1.0 - [25/01/2023]
+![Screenshot 2024-01-25 at 04 05 48](https://github.com/tomasernst/draw/assets/80714248/50a9c9db-9fc4-444a-bcfc-fb16bebeccc4)
