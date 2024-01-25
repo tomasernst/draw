@@ -20,7 +20,12 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## What's next?
 
+- [ ] Back button 
+- [ ] Fix canvas and tool size according to screen width and height
+- [ ] Add touch events in order for the apple pencil to work
+- [ ] Different styles of pencil
 
 
 
